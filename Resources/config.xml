@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.4/engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+        <element type="textarea">
+            <name>pluginValue</name>
+            <label>Enter Text you want to be available in the Frontend</label>
+            <options>
+                <helpText>This will be value 1</helpText>
+            </options>
+        </element>
+    </elements>
+</config>
